@@ -131,3 +131,23 @@
   align-items: center;
   gap: 20px;
 }
+.button-appointment {
+  border-radius: 30px;
+  padding: 17px 55px;
+  border: none;
+  font-size: 15px;
+}
+.phone-description {
+  color: white;
+  font-size: 18px;
+}
+.phone-number {
+  color: white;
+  font-size: 20px;
+}
+.icon-1 {
+  width: 100px;
+}
+.number {
+  font-size: 50px;
+}
