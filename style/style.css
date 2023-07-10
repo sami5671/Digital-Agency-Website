@@ -113,3 +113,21 @@
   border-right: 2px solid red;
   padding-right: 20px;
 }
+/* appointment section */
+.appointment-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: red;
+  width: 70%;
+  margin: auto;
+  padding: 60px;
+  gap: 50px;
+  border-radius: 30px;
+  margin-top: -60px;
+}
+.phone-call {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
